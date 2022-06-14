@@ -1,0 +1,97 @@
+/* Your CSS here */
+.headerbar .headerbar-left {
+    background: #627259;;
+    float: left;
+    text-align: center;
+    height: 50px;
+    position: relative;
+    width: 250px;
+    z-index: 1;
+}
+.navbar-custom {
+    background-color: #627259;;
+    border-radius: 0;
+    margin-bottom: 0;
+    padding: 0 10px;
+    margin-left: 250px;
+    min-height: 50px;
+}
+
+.card.dashboard-card {
+    min-height: 180px;
+}
+.admin-page {
+    border: 1px solid #8a8080;
+    padding: 30px;
+    margin-top: 5px;
+    background: #fafdff;
+}
+
+.toggle-table-column {
+    padding-bottom: 20px;
+}
+
+#sidebar-menu > ul > li > a.active {
+    color: #ffffff !important;
+    background-color: #61c195;
+}
+
+a.active-submenu {
+    background: #565c67de;
+}
+
+
+td.details-control {
+    background: url('../images/details_open.png') no-repeat center center;
+    cursor: pointer;
+    }
+    tr.shown td.details-control {
+        background: url('../images/details_close.png') no-repeat center center;
+    }
+
+/* PROPERTY IMAGE GALLARY CLOSE BUTTON */
+
+.image-gallery-close-button
+{
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    font-size: 16px;
+    line-height: 26px;
+    position: absolute;
+    z-index: 1;
+    right: 0px;
+    top: -10px;
+}
+
+/* PROPERTY TAB */
+
+#property-tab a.active
+{
+    background-color: #495057 !important;
+    color: #ffffff !important;
+    font-size: 15px !important;
+    font-weight: bold !important;
+}
+
+#property-tab a:not(.active)
+{
+    font-size: 15px !important;
+    font-weight: bold !important;
+    color: #000000 !important;
+}
+
+#admin-room-category-pills-tab a.active
+{
+    background-color: #495057 !important;
+    color: #ffffff !important;
+    font-size: 15px !important;
+    font-weight: bold !important;
+}
+
+#admin-room-category-pills-tab a:not(.active)
+{
+    font-size: 15px !important;
+    font-weight: bold !important;
+    color: #000000 !important;
+}

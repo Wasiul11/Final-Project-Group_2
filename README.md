@@ -2,8 +2,8 @@
 - Wasiul Islam 1822615
 - Asfi Ahmed 1822729
 - Abdullah Sami 1822735
-- Imran Md Fahad Mahmud 1722081
-- Muhammad Aiman Najmi Bin Abdullah 1929261
+
+
 
 # Fitness Training Center
 
